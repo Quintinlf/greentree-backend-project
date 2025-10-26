@@ -106,9 +106,9 @@ This project demonstrates:
 - Professional documentation with Swagger — creating interactive, shareable API docs.
 - Local development and dependency management — using virtual environments, pip, migrations, and the runserver.
 
-This is the bridge between personal scripts and scalable backend systems — useful for anything from trading bots, NMR analyzers, to astro apps.
+This is the bridge between personal scripts and scalable backend systems — useful for anything from trading bots, NMR analyzers, to personal apps.
 
 ---
 
-🧑‍💻 Author: Quintin  
+👨🏾‍💻 Author: Quintin  
 📅 Date: October 2025
