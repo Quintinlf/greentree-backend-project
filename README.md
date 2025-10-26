@@ -91,7 +91,7 @@ See `.env.example` for required environment setup.
 
 - Add data visualizations using Matplotlib or Plotly
 - Integrate with Azure SQL or PostgreSQL
-- Extend models to represent real-world data (chemical, financial, or astrological)
+- Extend models to represent real-world data (chemical, financial,statistical, etc.)
 - Add authentication for user-specific records
 
 ---
