@@ -1,0 +1,6 @@
+Django==5.2
+djangorestframework==3.14.0
+drf-yasg==1.20.0
+python-dotenv==1.0.0
+psycopg2-binary==2.9.3  # If using PostgreSQL
+# Add any additional dependencies as needed
